@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 First run, Get all assets is needed, you can run:
 
-### `npm start
+### `npm i`
 
 In the project directory, you can run:
 
