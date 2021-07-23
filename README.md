@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+First run, Get all assets is needed, you can run:
+
+### `npm start
 
 In the project directory, you can run:
 
